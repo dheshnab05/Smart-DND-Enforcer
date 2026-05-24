@@ -3,7 +3,8 @@ AI-Powered Intelligent VoIP Call Handling System for Do Not Disturb (DND) Mode
 
 “Smart DND Enforcer” is an intelligent Android-based system designed to ensure that important WhatsApp VoIP calls are not missed during Do Not Disturb mode by using context-aware decision making, cloud integration, and secure contact processing.
 
-#Demo Link (UPLOADED IN LOOM)
+# Demo Link (UPLOADED IN LOOM)
+DEMO:
 https://www.loom.com/share/f93ad6e995bb43a3aec042c960d64f17 
 
 # 📌 Project Description
