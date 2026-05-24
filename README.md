@@ -3,11 +3,11 @@ AI-Powered Intelligent VoIP Call Handling System for Do Not Disturb (DND) Mode
 
 “Smart DND Enforcer” is an intelligent Android-based system designed to ensure that important WhatsApp VoIP calls are not missed during Do Not Disturb mode by using context-aware decision making, cloud integration, and secure contact processing.
 
-# Demo Link (UPLOADED IN LOOM)
+## Demo Link (UPLOADED IN LOOM)
 DEMO:
 https://www.loom.com/share/f93ad6e995bb43a3aec042c960d64f17 
 
-# 📌 Project Description
+## 📌 Project Description
 
 Smart DND Enforcer is an AI-assisted Android application developed to solve one of the major limitations in modern smartphone Do Not Disturb (DND) systems — the inability to properly handle VoIP calls from applications such as WhatsApp. While traditional cellular calls from favorite contacts can bypass DND mode, VoIP calls often remain silent even for important contacts, leading to missed communications during emergencies and critical situations.
 
@@ -20,7 +20,7 @@ The system also considers contextual conditions such as call frequency and time-
 The project was tested on multiple Android devices including Samsung and Redmi smartphones, where inconsistencies in default DND behavior for WhatsApp calls were observed. Smart DND Enforcer addresses this gap by providing a more reliable and intelligent call prioritization mechanism.
 
 
-# Why Smart DND Enforcer?
+## Why Smart DND Enforcer?
 
 - WhatsApp calls remain silent during DND mode even for favorite contacts
 - Existing DND systems handle VoIP calls inconsistently across some devices
@@ -31,7 +31,7 @@ The project was tested on multiple Android devices including Samsung and Redmi s
 - Users need intelligent and privacy-aware VoIP call handling
 
 
-#  Features
+##  Features
 
 ## Core Features
 
@@ -63,7 +63,7 @@ The project was tested on multiple Android devices including Samsung and Redmi s
 - Scalable Cloud Architecture
 
 
-#  How It Works
+##  How It Works
 
 1. User grants notification and contact permissions
 2. Starred contacts are extracted from the device
@@ -78,7 +78,7 @@ The project was tested on multiple Android devices including Samsung and Redmi s
 11. Otherwise, the call remains silent
 
 
-# Tech Stack Used
+## Tech Stack Used
 
 ## Frontend / Mobile Application
 
@@ -105,7 +105,7 @@ The project was tested on multiple Android devices including Samsung and Redmi s
 - Secure Data Transmission
 - Hashed Contact Storage
 
-# AWS Services Used
+## AWS Services Used
 
 |   Service   |                  Purpose                   |
 |-------------|--------------------------------------------|
@@ -114,7 +114,7 @@ The project was tested on multiple Android devices including Samsung and Redmi s
 | DynamoDB    | Stores hashed contact data securely        |
 
 
-#  Modules Implemented
+##  Modules Implemented
 
 ## Data Engineering
 - Contact extraction
@@ -174,7 +174,7 @@ Add required API configurations and endpoints.
 Run app on Android Emulator or Physical Device
 ```
 
-# 🏷️ Hashtags
+## 🏷️ Hashtags
 
 ```text
 #Android #AI #CloudComputing #AWS #CyberSecurity 
